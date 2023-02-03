@@ -1,0 +1,77 @@
+Node .js is javascript runtime built on chrome's V8 
+javascript engine.
+
+node js allows you to run javascript on the serve
+
+node.js also provides library of various javascript module 
+which help to develop web application.
+
+node.js was developed by ryan dahl in 2009
+
+node js is not a language or a Framewrok 
+
+it is runtime environement
+
+*)Advantage node.js
+1)open source
+2)event Driven
+3)very popular 
+
+you need to know
+1)javascript
+2)NPM
+
+check node command node --version
+
+check npm --version
+
+
+1)REPL
+ for using tesing 
+
+_ last value return 
+
+
+if we can terminal we have to use 
+
+node file names
+
+npm init ne te pacakage json file tayara karatay 
+folder madhe
+
+
+Wrapper Module in Node JS (Hindi)
+
+********************End*******************
+*)Path Module in Node JS
+The path module provides utilities for working with files
+and directory paths.it can be accessd using 
+
+const path= require('path');
+
+1)basename();
+
+Exmple:-basename('/test/something.html','.html');
+
+
+2)dirname()
+
+3)join()
+
+4)extname()
+
+5)normalize(path)
+
+6)parse(path)
+
+7)isAbsolute()
+
+
+
+
+
+
+
+
+
+
