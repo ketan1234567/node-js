@@ -66,6 +66,8 @@ Exmple:-basename('/test/something.html','.html');
 
 7)isAbsolute()
 
+1)File System Module in Node JS
+
 
 
 
