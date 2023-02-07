@@ -68,6 +68,17 @@ Exmple:-basename('/test/something.html','.html');
 
 1)File System Module in Node JS
 
+1)Promise API 
+
+2)Callback API
+
+The callback APIS perform all operations asychronously without 
+blocking the event loop then invoke a callback function 
+upone compltetion or error
+
+
+
+		
 
 
 
