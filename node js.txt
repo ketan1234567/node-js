@@ -75,6 +75,32 @@ Exmple:-basename('/test/something.html','.html');
 The callback APIS perform all operations asychronously without 
 blocking the event loop then invoke a callback function 
 upone compltetion or error
+************************************END***************
+20/02/2023
+
+Basic API 
+
+3)API With  MongoDB
+1)Make new File for API
+2)Import and use Mongo Config 
+3)Make API for Get data
+4)Test With PostMan
+5)Interview Questions
+1)can we pass body for get Method
+no never 
+2)can we pass query like params
+Yes you can pass
+
+*)IMPORT 
+when we create API we have muse use Express 
+
+
+// request method we can use when we wnat get data from database with help of postman
+//respone Method jevala aapala serve manaje node js serve reply karela  API la
+
+
+
+
 
 
 
