@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Node .js is javascript runtime built on chrome's V8 
 javascript engine.
 
@@ -158,3 +159,121 @@ connect karatay.
 
 
 
+=======
+Node .js is javascript runtime built on chrome's V8 
+javascript engine.
+
+node js allows you to run javascript on the serve
+
+node.js also provides library of various javascript module 
+which help to develop web application.
+
+node.js was developed by ryan dahl in 2009
+
+node js is not a language or a Framewrok 
+
+it is runtime environement
+
+*)Advantage node.js
+1)open source
+2)event Driven
+3)very popular 
+
+you need to know
+1)javascript
+2)NPM
+
+check node command node --version
+
+check npm --version
+
+
+1)REPL
+ for using tesing 
+
+_ last value return 
+
+
+if we can terminal we have to use 
+
+node file names
+
+npm init ne te pacakage json file tayara karatay 
+folder madhe
+
+
+Wrapper Module in Node JS (Hindi)
+
+********************End*******************
+*)Path Module in Node JS
+The path module provides utilities for working with files
+and directory paths.it can be accessd using 
+
+const path= require('path');
+
+1)basename();
+
+Exmple:-basename('/test/something.html','.html');
+
+
+2)dirname()
+
+3)join()
+
+4)extname()
+
+5)normalize(path)
+
+6)parse(path)
+
+7)isAbsolute()
+
+1)File System Module in Node JS
+
+1)Promise API 
+
+2)Callback API
+
+The callback APIS perform all operations asychronously without 
+blocking the event loop then invoke a callback function 
+upone compltetion or error
+************************************END***************
+20/02/2023
+
+Basic API 
+
+3)API With  MongoDB
+1)Make new File for API
+2)Import and use Mongo Config 
+3)Make API for Get data
+4)Test With PostMan
+5)Interview Questions
+1)can we pass body for get Method
+no never 
+2)can we pass query like params
+Yes you can pass
+
+*)IMPORT 
+when we create API we have muse use Express 
+
+
+// request method we can use when we wnat get data from database with help of postman
+//respone Method jevala aapala serve manaje node js serve reply karela  API la
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+>>>>>>> 0231a84a2416b93d56db742a4a5a5876a8e01dec
