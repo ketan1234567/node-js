@@ -109,6 +109,39 @@ can we put same url get or post
 Yes we can put same Url in post
 
 
+*)Post Method
+
+*)Put Method 
+you have to use query paramas  
+and you have to pass req.body
+***************************END***********************
+23/02/2023
+
+Start With Mongoose 
+1)what is Mongoose
+node js connect karanasathi aka package ahe 
+
+2)Difference Between Mongoose vs Monogodb package
+Mongodb is limitation 
+but Mongoose are addtional features 
+
+3)Install Mongoose
+4)what is schemas
+1)API la validation laou shakato aapan 
+2)Filed control karu shakato aapan 
+3)database filed la validate karatiye
+5)what is model
+je aapn schemas throw validate krun filed define kelay
+ahe tayala use node js la moonnsoge 
+connect karatay.
+
+6)connect Node js and MongoDb with Mongoose
+
+	
+
+
+
+
 
 
 
